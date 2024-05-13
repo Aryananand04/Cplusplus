@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/aryananand/Desktop/Desktop Folder/C++/C++ Workspace/Workspace1/Workspace1/main.cpp",
+  "directory": "/Users/aryananand/Desktop/Desktop Folder/C++/C++ Workspace/Workspace1/Workspace1",
+  "command": "clang++ -c \"/Users/aryananand/Desktop/Desktop Folder/C++/C++ Workspace/Workspace1/Workspace1/main.cpp\" -o \"/Users/aryananand/Desktop/Desktop Folder/C++/C++ Workspace/Workspace1/Workspace1/main.cpp\".o  -I. -I.  -fopenmp  -Wall  -gdwarf-2  -O0"
+ }]
